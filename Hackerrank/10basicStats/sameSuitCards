@@ -1,0 +1,18 @@
+2 cards - 52 deck - no replace
+P(cards of the same suit) = ?
+
+Total combinations: 52*51 
+
+
+12 13 13 13 -> 12 cards of a suit to pick the same
+A  B  C  D
+
+
+12*51 / 52*51 --> 12/51
+
+Otherway:
+
+First draw: 13/52
+Second draw: 12/51
+For 4 colors: 4 * 13/52 * 12/51
+
